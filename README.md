@@ -38,19 +38,22 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-![DE ex7 code](https://github.com/user-attachments/assets/8b1ec23d-f0de-469e-98a0-434f4fb94f09)
+![ex6 code DE](https://github.com/user-attachments/assets/87d80722-af00-42cf-9d6a-58a1c93ca70d)
+
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![DE ex7 diagram](https://github.com/user-attachments/assets/ff724d49-e3e1-425f-a4a3-06b620573f40)
+![DE ex6 diagram](https://github.com/user-attachments/assets/e311a779-3c2b-48e7-b4c6-624774e5bcb1)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![DE ex7 waveform](https://github.com/user-attachments/assets/42339a65-9fec-4cb5-87a0-0dd17ea50234)
+![DE ex6 waveform](https://github.com/user-attachments/assets/115633df-deda-4ab1-a8fd-190922a5541e)
+
 
 
 **RESULTS**
