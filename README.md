@@ -52,7 +52,7 @@ S = 1 and R = 1: Invalid state (usually avoided in proper design).
 
 **PROGRAM**
 
-Developed By:Rajashri I,Register Number:24900207
+
 
 ![ex6 code DE](https://github.com/user-attachments/assets/87d80722-af00-42cf-9d6a-58a1c93ca70d)
 
